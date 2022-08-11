@@ -1,4 +1,4 @@
-package ro.developmentfactory.myspringapi;
+package ro.developmentfactory.myspringapi.Employee;
 
 import org.springframework.web.bind.annotation.*;
 

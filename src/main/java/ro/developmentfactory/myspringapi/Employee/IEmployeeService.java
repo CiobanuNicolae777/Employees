@@ -1,4 +1,6 @@
-package ro.developmentfactory.myspringapi;
+package ro.developmentfactory.myspringapi.Employee;
+
+import ro.developmentfactory.myspringapi.Employee.Employee;
 
 import java.util.List;
 
